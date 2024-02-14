@@ -1,4 +1,4 @@
-## HS-GNN Predictor
+HS-GNN Predictor
 
 This work is the official implementation for the following paper: 
 
