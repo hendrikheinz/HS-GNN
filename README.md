@@ -4,7 +4,7 @@ The HS-GNN was jointly developed by Yusu Wang, University of California, San Die
 
 The HS-GNN is designed to predict mechanical properties of defective and pristine carbon nanostructures from 3D atomic model structures on the scale of 1 to 50 nm, such as carbon nanotube bundles, carbon-fiber cross-sections, and CNT junctions. It may be extended for other sizes, chemistries, and properties. 
 
-The associated databases of over 2000 model structures are available from the authors (too large to include in GitHub). Prediction times for modulus and tensile strength, after building persistent summaries and training, are under 1 second for over 100 all-atomic structures.  
+The associated databases of over 2000 model structures with up to 100,000 atoms and associated stress-strain curves are available from the authors (too large to include in GitHub). Prediction times for modulus and tensile strength, after building persistent summaries and training, are under 1 second for 100+ all-atomic structures.  
 
 Details are described in a publication under review, "Prediction of Carbon Nanostructure Mechanical Properties and Role of Defects Using Machine Learning". A preprint is available here: https://arxiv.org/abs/2110.00517.
 
