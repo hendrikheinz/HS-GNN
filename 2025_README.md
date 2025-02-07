@@ -11,7 +11,7 @@ The implementation is run under Python 3.9 and requires the following packages:
 - gudhi == 3.10.1
 - scipy == 1.13.1
 
-We have published one benchmark dataset, CNT-bundle. It is under */data/cnt_bundle/* directory. Please be aware that our .dgl format dataset has already been pre-processed and is ready to use for training / test of HS-GNN.
+We have published complete benchmark datasets, CNT-bundle and CNT junctions, in: Winetrout, Jordan; Li, Zilu; Zhao, Qi; Gaber, Landon; Unnikrishnan, Vinu U.; Varshney, Vikas; et al. (2024). Dataset of Carbon Nanostructures for "Prediction of Carbon Nanostructure Mechanical Properties and the Role of Defects Using Machine Learning". figshare. Dataset. https://doi.org/10.6084/m9.figshare.27634290.v2. A small "toy" model subset is given in the folder "2025_HS_GNN_toydata".
 
 To train HS-GNN under the benchmark dataset, please use the following script:
 ```shell
